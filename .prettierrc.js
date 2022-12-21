@@ -1,0 +1,7 @@
+module.exports = {
+    singleQuote: true,
+    semi: false,
+    endOfLine: 'lf',
+    tabWidth: 2,
+    useTabs: false,
+}
